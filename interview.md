@@ -9,9 +9,23 @@
 4. Interview with CEO (Online)
 5. Final Interview (Face to Face)
 
+### Preparation
+Before this interview, I had 5 other interviews for Senior Research Engineer, Full Stack AI Engineer,
+Senior Computer Vision Engineer, Senior ML and MLOps Engineer. This was the 6th one. 
+
+Solved (LeeCode Premium 1 month)
+- Leetcode75 
+- DS-I, II, III  
+- Algo-I, II, III
+- Top Facebook Questions (Solved 11)
+
+ML System Design Books, Revised SQL concepts, Basics of MLOps, DVC, Git, AWS, Kubernetes, Docker,
+Scalable system design, Load balancing, Yolo Architecture, UNet Architecture, Classification models etc. Basically everything related to my CV. 
+
+
 ### 1. First Interview with Recruiter
 
-The first interview was very basic and straightforward. I was asked some of the basic questions.
+The first interview was very basic and straightforward. I was asked some basic questions.
 - Introduce yourself
 - Your previous responsibilities
 - Your current responsibilities
@@ -38,7 +52,7 @@ The coding test consisted of 5 questions. It was on hireroo.com. The given time 
 #### Stage 2
 
 This stage had multiple MCQ questions. Questions related to AWS (Web app access control), TCP/IP, GIT, Kubernetes, and docker-related basic questions
-
+These were scenario based questions. Given a scenario/issue what would be the appropriate action.
 
 ### 3. First Interview with the company
 
@@ -53,18 +67,18 @@ it was an almost 2-hour long interview. In the end, I was exhausted. During the 
 6. What kind of challenges did you face and how did you solve them?
 7. How does non-maximum suppression work?
 8. Asked lots of technical questions from my previous projects (classification models, transformers, HRNet, ML System Design, etc)
-
+9. How would you compress an image and upload it and decompress it? (Explained Huffman Coding)
 
 #### Coding test
-1. This was a progressive coding test. The interviewer shared an online google doc. At first, I was asked to write an SQL query to retrieve some data (operations required to join, select, and count). Don't remember the query. I wrote the query on a google doc.
-2. Given a list of processes (process_id, status: active/inactive), group them by active/inactive keeping the id order the same. I wrote the code on google docs, used python
-3. Tell us the time complexity of your code  
-4. Remove the inactive processes by in-place operation  
-5. Explain the time complexity
-6. Optimize it by shifting the inactive ones to the right and keeping only the active ones
-7. Explain the time complexity
+This was a progressive coding test. The interviewer shared an online google doc. At first, I was asked to write an SQL query to retrieve some data (operations required to join, select, and count). Don't remember the query. I wrote the query on a google doc.
+1. Given a list of processes (process_id, status: active/inactive), group them by active/inactive keeping the id order the same. I wrote the code on google docs, used python
+2. Tell us the time complexity of your code  
+3. Remove the inactive processes by in-place operation  
+4. Explain the time complexity
+5. Optimize it by shifting the inactive ones to the right and keeping only the active ones
+6. Explain the time complexity
     - Here he disagreed with my answer and explained why. Then I explained my point. At first, I was confused but then I let him explain first by asking can you explain it, please.
-8. Optimise your code again for nLogn complexity
+7. Optimise your code again for nLogn complexity
     - Couldn't do it because of time.
     
 Interview ended.
@@ -75,9 +89,9 @@ Interview ended.
 2. Why do I want to join the company
 3. Why am I suitable for this role
 4. What do I like most in programming
-5. Described some of the products (under development) and asked for my opinion
+5. Described some products (under development) and asked for my opinion
 6. Told about a project and asked for my opinion on whether it will be profitable or not
-    - I said it would end up in a loss and he agreed and said it's been already.
+    - I said it would end up in a loss, and he agreed and said it's been already.
 7. Asked to make a plan as a CTO for upcoming projects and submit it later
 8. Asked to do market research and send a report later
 
@@ -88,6 +102,8 @@ Interview ended.
 3. Discussed my plans, goals, and re-location plans
 4. Discussed ideas from my plan
 5. Asked for strategic planning showing some product plans
+
+Got a positive response but kept me on waiting list.
 
 
 After 2 weeks I received the offer letter.
